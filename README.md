@@ -77,16 +77,7 @@ The `Proj_1.pbix` report is broken down into structured views optimized for stak
 ### Prerequisites
 - Microsoft Excel 2016 or newer.
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Free download).
-
-### Step-by-Step Installation
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-Inspect Raw Data: Review the source files (Customers.xlsx, Products.xlsx, Sales.xlsx, Stores.xlsx) inside your data directory.
-
-Open the Dashboard: Double-click and launch Proj_1.pbix in Power BI Desktop.
-
-Fix Data Source Paths (If Required): If the tables display a loading error, go to Home -> Transform Data -> Data source settings, click Change Source, and point the tables to the respective Excel/CSV paths on your local system. Click Apply Changes.
+  
 
 📈 Key Business Insights Derived
 Profit Optimization: Highlights instances where high discounts fail to generate proportional sales volumes, providing actionable insights for marketing strategies.
